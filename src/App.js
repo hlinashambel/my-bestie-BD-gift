@@ -112,7 +112,7 @@ function App() {
     {/* PHOTO 2 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her20.jpg" 
+            src="../public/images/her20.jpg" 
             alt="Memory 2"
             className="gallery-image"
         />
