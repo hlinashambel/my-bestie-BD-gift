@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-bestie-BD-gift/static/css/main.e9267887.css",
+    "main.js": "/my-bestie-BD-gift/static/js/main.71c22c45.js",
+    "static/media/her1.jpg": "/my-bestie-BD-gift/static/media/her1.a88f44a2049e9d2d2604.jpg",
+    "index.html": "/my-bestie-BD-gift/index.html",
+    "main.e9267887.css.map": "/my-bestie-BD-gift/static/css/main.e9267887.css.map",
+    "main.71c22c45.js.map": "/my-bestie-BD-gift/static/js/main.71c22c45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9267887.css",
+    "static/js/main.71c22c45.js"
+  ]
+}
