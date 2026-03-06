@@ -6,7 +6,7 @@ function MusicPlayer({ autoPlay = false }) {
   const audioRef = useRef(null);
   
   // Path to your music file in the public folder
-  const musicUrl = "/music/forfev.mp3";
+  const musicUrl = "/my-bestie-BD-gift/music/forfev.mp3";
 
   useEffect(() => {
     // Create audio element
