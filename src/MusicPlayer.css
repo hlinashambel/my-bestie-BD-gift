@@ -1,0 +1,117 @@
+.music-trigger {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  z-index: 1000;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
+
+.music-trigger:hover {
+  transform: scale(1.1);
+}
+
+.music-player {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  z-index: 1000;
+  animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.music-play-btn {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: transform 0.2s;
+}
+
+.music-play-btn:hover {
+  transform: scale(1.05);
+}
+
+.music-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.music-volume {
+  width: 100px;
+  height: 5px;
+  -webkit-appearance: none;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 5px;
+  outline: none;
+}
+
+.music-volume::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border: 2px solid #667eea;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.music-close {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #999;
+  padding: 0 5px;
+}
+
+.music-close:hover {
+  color: #ff6b6b;
+}
+
+@media (max-width: 768px) {
+  .music-player {
+    bottom: 20px;
+    right: 20px;
+    padding: 15px;
+    flex-wrap: wrap;
+  }
+  
+  .music-volume {
+    width: 60px;
+  }
+}
