@@ -102,7 +102,7 @@ function App() {
     {/* PHOTO 1 */}
     <div className="photo-card">
         <img 
-            src="/images/her1.jpg" 
+            src="/my-bestie-BD-gift/images/her1.jpg" 
             alt="Memory 1"
             className="gallery-image"
         />
@@ -112,7 +112,7 @@ function App() {
     {/* PHOTO 2 */}
     <div className="photo-card">
         <img 
-            src="/images/her20.jpg" 
+            src="/my-bestie-BD-gift/images/her20.jpg" 
             alt="Memory 2"
             className="gallery-image"
         />
@@ -122,7 +122,7 @@ function App() {
     {/* PHOTO 3 */}
     <div className="photo-card">
         <img 
-            src="/images/her3.jpg" 
+            src="/my-bestie-BD-gift/images/her3.jpg" 
             alt="Memory 3"
             className="gallery-image"
         />
@@ -132,7 +132,7 @@ function App() {
     {/* PHOTO 4 */}
     <div className="photo-card">
         <img 
-            src="/images/her13.jpg" 
+            src="/my-bestie-BD-gift/images/her13.jpg" 
             alt="Memory 4"
             className="gallery-image"
         />
@@ -142,7 +142,7 @@ function App() {
     {/* PHOTO 5 */}
     <div className="photo-card">
         <img 
-            src="/images/her21.jpg" 
+            src="/my-bestie-BD-gift/images/her21.jpg" 
             alt="Memory 5"
             className="gallery-image"
         />
@@ -152,7 +152,7 @@ function App() {
     {/* PHOTO 6 */}
     <div className="photo-card">
         <img 
-            src="/images/her6.jpg" 
+            src="/my-bestie-BD-gift/images/her6.jpg" 
             alt="Memory 6"
             className="gallery-image"
         />
@@ -162,7 +162,7 @@ function App() {
     {/* PHOTO 7 */}
     <div className="photo-card">
         <img 
-            src="/images/her7.jpg" 
+            src="/my-bestie-BD-gift/images/her7.jpg" 
             alt="Memory 7"
             className="gallery-image"
         />
@@ -172,7 +172,7 @@ function App() {
     {/* PHOTO 8 */}
     <div className="photo-card">
         <img 
-            src="/images/her8.jpg" 
+            src="/my-bestie-BD-gift/images/her8.jpg" 
             alt="Memory 8"
             className="gallery-image"
         />
@@ -182,7 +182,7 @@ function App() {
     {/* PHOTO 9 */}
     <div className="photo-card">
         <img 
-            src="/images/her9.jpg" 
+            src="/my-bestie-BD-gift/images/her9.jpg" 
             alt="Memory 9"
             className="gallery-image"
         />
@@ -192,7 +192,7 @@ function App() {
     {/* PHOTO 10 */}
     <div className="photo-card">
         <img 
-            src="/images/her10.jpg" 
+            src="/my-bestie-BD-gift/images/her10.jpg" 
             alt="Memory 10"
             className="gallery-image"
         />
@@ -202,7 +202,7 @@ function App() {
     {/* PHOTO 11 */}
     <div className="photo-card">
         <img 
-            src="/images/her11.jpg" 
+            src="/my-bestie-BD-gift/images/her11.jpg" 
             alt="Memory 11"
             className="gallery-image"
         />
@@ -212,7 +212,7 @@ function App() {
     {/* PHOTO 12 - herpic1.jpg */}
     <div className="photo-card">
         <img 
-            src="/images/her18.jpg" 
+            src="/my-bestie-BD-gift/images/her18.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -220,7 +220,7 @@ function App() {
     </div>
  <div className="photo-card">
         <img 
-            src="/images/her19.jpg" 
+            src="/my-bestie-BD-gift/images/her19.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -228,7 +228,7 @@ function App() {
     </div>
  <div className="photo-card">
         <img 
-            src="/images/her17.jpg" 
+            src="/my-bestie-BD-gift/images/her17.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -236,7 +236,7 @@ function App() {
     </div>
  <div className="photo-card">
         <img 
-            src="/images/her30.jpg" 
+            src="/my-bestie-BD-gift/images/her30.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -244,7 +244,7 @@ function App() {
     </div>   
  <div className="photo-card">
         <img 
-            src="/images/her31.jpg" 
+            src="/my-bestie-BD-gift/images/her31.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -252,7 +252,7 @@ function App() {
     </div>
  <div className="photo-card">
         <img 
-            src="/images/her32.jpg" 
+            src="/my-bestie-BD-gift/images/her32.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -260,7 +260,7 @@ function App() {
     </div>  
  <div className="photo-card">
         <img 
-            src="/images/her35.jpg" 
+            src="/my-bestie-BD-gift/images/her35.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
