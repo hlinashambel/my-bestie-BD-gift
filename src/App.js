@@ -98,11 +98,11 @@ function App() {
                     {/* PHOTO GALLERY SECTION */}
                     <section className="photo-gallery">
                         <h2 className="section-title">Our Memories 📸</h2>
-                       <div className="gallery-grid">
+                        <div className="gallery-grid">
     {/* PHOTO 1 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her1.jpg" 
+            src="/images/her1.jpg" 
             alt="Memory 1"
             className="gallery-image"
         />
@@ -112,7 +112,7 @@ function App() {
     {/* PHOTO 2 */}
     <div className="photo-card">
         <img 
-            src="../public/images/her20.jpg" 
+            src="/images/her20.jpg" 
             alt="Memory 2"
             className="gallery-image"
         />
@@ -122,7 +122,7 @@ function App() {
     {/* PHOTO 3 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her3.jpg" 
+            src="/images/her3.jpg" 
             alt="Memory 3"
             className="gallery-image"
         />
@@ -132,7 +132,7 @@ function App() {
     {/* PHOTO 4 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her13.jpg" 
+            src="/images/her13.jpg" 
             alt="Memory 4"
             className="gallery-image"
         />
@@ -142,7 +142,7 @@ function App() {
     {/* PHOTO 5 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her21.jpg" 
+            src="/images/her21.jpg" 
             alt="Memory 5"
             className="gallery-image"
         />
@@ -152,7 +152,7 @@ function App() {
     {/* PHOTO 6 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her6.jpg" 
+            src="/images/her6.jpg" 
             alt="Memory 6"
             className="gallery-image"
         />
@@ -162,7 +162,7 @@ function App() {
     {/* PHOTO 7 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her7.jpg" 
+            src="/images/her7.jpg" 
             alt="Memory 7"
             className="gallery-image"
         />
@@ -172,7 +172,7 @@ function App() {
     {/* PHOTO 8 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her8.jpg" 
+            src="/images/her8.jpg" 
             alt="Memory 8"
             className="gallery-image"
         />
@@ -182,7 +182,7 @@ function App() {
     {/* PHOTO 9 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her9.jpg" 
+            src="/images/her9.jpg" 
             alt="Memory 9"
             className="gallery-image"
         />
@@ -192,7 +192,7 @@ function App() {
     {/* PHOTO 10 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her10.jpg" 
+            src="/images/her10.jpg" 
             alt="Memory 10"
             className="gallery-image"
         />
@@ -202,7 +202,7 @@ function App() {
     {/* PHOTO 11 */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her11.jpg" 
+            src="/images/her11.jpg" 
             alt="Memory 11"
             className="gallery-image"
         />
@@ -212,55 +212,55 @@ function App() {
     {/* PHOTO 12 - herpic1.jpg */}
     <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her18.jpg" 
+            src="/images/her18.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
         <p className="photo-caption">Timket </p>
     </div>
- <div className="photo-card">
+  <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her19.jpg" 
+            src="/images/her19.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
         <p className="photo-caption">my bd day abet bulanet </p>
     </div>
- <div className="photo-card">
+  <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her17.jpg" 
+            src="/images/her17.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
         <p className="photo-caption">LeTimket tseguran sirign bilesh metiche yemigerm siret neber gn fetashiw 😢😭  </p>
     </div>
- <div className="photo-card">
+  <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her30.jpg" 
+            src="/images/her30.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
         <p className="photo-caption">sitamriii ❤️💋</p>
     </div>   
- <div className="photo-card">
+  <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her31.jpg" 
+            src="/images/her31.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
         <p className="photo-caption"> ❤️ meskel 2018 ❤️ </p>
     </div>
- <div className="photo-card">
+  <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her32.jpg" 
+            src="/images/her32.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
         <p className="photo-caption">that was ma bd of 20th endatireshiw 🤣 </p>
     </div>  
- <div className="photo-card">
+  <div className="photo-card">
         <img 
-            src="/my-bestie-BD-gift/images/her35.jpg" 
+            src="/images/her35.jpg" 
             alt="Special Memory"
             className="gallery-image"
         />
@@ -301,7 +301,7 @@ function App() {
                                 to have you in my life. You make every day better just by being you.
                             </p>
                             <p>
-                                Remember all those crazy moments like Jerika shiten ye abat teskar lay siyasferaran zebegnaw 🤣 , the tears actually we are not that much alkash togather gn yaw gn u were so akurafiii 🤣 and agabashibgnn ena ene baskuuu , and what i dont forget is like be block yetetalanew bicha u are the one belong with me always 
+                                Remember all those crazy moments like Jerika shiten ye abat teskar lay siyasferaran zebegnaw 🤣 , the tears actually we are not that much alkash togather gn yaw [...]
                                 Those are the moments I'll cherish forever. You're not just my best friend,
                                 you're my sister from another mesii🤣.
                             </p>
@@ -370,6 +370,6 @@ function SimpleConfetti() {
     
     return null;
 }
-
-
+ 
+ 
 export default App;  // This makes App available to other files
